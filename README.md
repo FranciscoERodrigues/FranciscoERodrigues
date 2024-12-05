@@ -3,7 +3,7 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-rodrigues-980477250)
 [![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](franciscoeme21@gmail.com)
 
-![Cutrin7 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cutrin7&show_icons=true&theme=dracula&locale=pt-br)
+![Cutrin7 GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoERodrigues&show_icons=true&theme=dracula&locale=pt-br)
 
 ## Tecnologias que eu uso no meu dia a dia
 
