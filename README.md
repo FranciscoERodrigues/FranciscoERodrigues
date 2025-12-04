@@ -47,11 +47,11 @@ Todos os meus projetos de destaque, com documentação detalhada e código-fonte
 ### 🌐 Vamos Colaborar?
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI">
+  <a href="[https://www.linkedin.com/in/SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/francisco-rodrigues-980477250/)">
     <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Icon">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:franciscoeme21@gmail.com">
     <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email Icon">
   </a>
   &nbsp;&nbsp;
