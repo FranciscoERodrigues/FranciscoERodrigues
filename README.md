@@ -55,7 +55,7 @@ Todos os meus projetos de destaque, com documentação detalhada e código-fonte
     <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email Icon">
   </a>
   &nbsp;&nbsp;
-  <a href="https://SEU_PORTFOLIO_AQUI">
+  <a href="https://SEU_PORTFOLIO_AQUI](https://franciscoerodrigues.github.io/Portfolio-2025/">
     <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="Portfolio Icon">
   </a>
 </p>
