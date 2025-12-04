@@ -47,7 +47,7 @@ Todos os meus projetos de destaque, com documentação detalhada e código-fonte
 ### 🌐 Vamos Colaborar?
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/francisco-rodrigues-980477250]">
+  <a href="https://www.linkedin.com/in/francisco-rodrigues-980477250">
     <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Icon">
   </a>
   &nbsp;&nbsp;
